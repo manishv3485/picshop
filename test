@@ -1,0 +1,7 @@
+# install first:
+# pip instll openai streamlit pillow
+import stramlit as st
+import openai
+from PIL import Image
+import io
+openai.api.key = 
