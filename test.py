@@ -6,7 +6,7 @@ import openai
 from PIL import Image
 import io
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.title("picshop")
 
